@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1697737559 source:c:\pwr\podstawyprogramowania\helloworld\prog1_3_8\src\figury.cpp
+	"Figury.h"
+	"math.h"
+
+1697734644 c:\pwr\podstawyprogramowania\helloworld\prog1_3_8\include\figury.h
+
+1698077511 source:c:\pwr\podstawyprogramowania\helloworld\prog1_3_8\src\kwadrat.cpp
+	"Kwadrat.h"
+
+1698077697 c:\pwr\podstawyprogramowania\helloworld\prog1_3_8\include\kwadrat.h
+	<Figura.h>
+
+1698077684 source:c:\pwr\podstawyprogramowania\helloworld\prog1_3_8\main.cpp
+	<iostream>
+	<math.h>
+	<Kwadrat.h>
+	<Trojkat.h>
+	<Prostokat.h>
+
+1698077460 c:\pwr\podstawyprogramowania\helloworld\prog1_3_8\include\figura.h
+
+1698077635 c:\pwr\podstawyprogramowania\helloworld\prog1_3_8\include\trojkat.h
+	<Figura.h>
+
+1698077573 c:\pwr\podstawyprogramowania\helloworld\prog1_3_8\include\prostokat.h
+	<Figura.h>
+
+1698077573 source:c:\pwr\podstawyprogramowania\helloworld\prog1_3_8\src\prostokat.cpp
+	"Prostokat.h"
+
+1698077707 source:c:\pwr\podstawyprogramowania\helloworld\prog1_3_8\src\figura.cpp
+	"Figura.h"
+

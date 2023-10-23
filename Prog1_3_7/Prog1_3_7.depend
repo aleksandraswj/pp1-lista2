@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1697737336 source:c:\pwr\podstawyprogramowania\helloworld\prog1_3_7\src\rownaniekwadratowe.cpp
+	"RownanieKwadratowe.h"
+	"math.h"
+
+1697622694 c:\pwr\podstawyprogramowania\helloworld\prog1_3_7\include\rownaniekwadratowe.h
+
+1697737081 source:c:\pwr\podstawyprogramowania\helloworld\prog1_3_7\main.cpp
+	<iostream>
+	<RownanieKwadratowe.h>
+

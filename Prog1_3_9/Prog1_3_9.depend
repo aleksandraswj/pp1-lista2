@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698081182 source:c:\pwr\podstawyprogramowania\helloworld\prog1_3_9\main.cpp
+	<iostream>
+	<Dzialanie.h>
+
+1698080995 source:c:\pwr\podstawyprogramowania\helloworld\prog1_3_9\src\dzialanie.cpp
+	"Dzialanie.h"
+
+1698081141 c:\pwr\podstawyprogramowania\helloworld\prog1_3_9\include\dzialanie.h
+	<string>
+
